@@ -1,0 +1,5 @@
+git init - creati o directorie goala pentru proiectul git
+git add - adaugarea unui fisier in repo
+git add file.txt
+git add . (toate fisierele din mapa)
+git status - status-ul fiecarui fisier
